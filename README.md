@@ -4,7 +4,7 @@
 #step 4 : then did the coding part
 
 ------------- installation Guide--------------
-step 1 : open terminal and go do C: or D: or E: run command : git clone mygithub.link.given-by.me
+step 1 : open terminal and go do C: or D: or E: run command : git clone https://github.com/kumarlalita001/accuknox-asg.git
 step 2 : cd accunox-asg
 step 3 : npm install
 step 4 : npm run dev
